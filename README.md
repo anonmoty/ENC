@@ -119,7 +119,7 @@ Whether you're testing antivirus evasion or studying obfuscation techniques — 
 ### ⚡ One-Line Install
 
 ```bash
-git clone https://github.com/anonmoty/ENC.git && cd ENC && python Enc.py
+git clone https://github.com/anonmoty/ENC.git && cd ENC && python ENCODE.py
 ```
 
 ### 🐧 Linux / 🍎 macOS
@@ -132,7 +132,7 @@ git clone https://github.com/anonmoty/ENC.git
 cd ENC
 
 # Step 3 — Run the encoder
-python Enc.py
+python ENCODE.py
 ```
 
 ### 🪟 Windows (PowerShell)
@@ -140,7 +140,7 @@ python Enc.py
 ```powershell
 git clone https://github.com/anonmoty/ENC.git
 cd ENC
-python Enc.py
+python ENCODE.py
 ```
 
 ---
